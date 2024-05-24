@@ -1,4 +1,4 @@
-#Dashboard Responsivo para Gestão de Pedidos
+# Dashboard Responsivo para Gestão de Pedidos
 
 - **Projeto de Estudo:** Dashboard responsivo desenvolvido com HTML, CSS e JavaScript.
 - **Funcionalidades:** Exibição de dados como contas, total financeiro, e pedidos recentes com status variados.
